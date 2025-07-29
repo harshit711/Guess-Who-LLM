@@ -49,7 +49,7 @@ A Python command-line application that plays a "guess the character" game using 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/guess-who-questions.git
+   git clone https://github.com/harshit711/Guess-Who-LLM.git
    cd guess-who-questions
    ```
 2. Create and activate a virtual environment:
